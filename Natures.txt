@@ -1,0 +1,147 @@
+{
+"name": "Hardy",
+"increased": "none",
+"decreased": "none
+}
+{
+"name": "Lonely",,
+"increased": "Attack",
+"decreased": "Defense"
+}
+{
+"name": "Brave",
+"increase": "Attack",
+"decreased":"Speed"
+}
+{
+"name":
+Adamant
+increased,Attack
+decreased,Sp. Attack
+}
+{
+"name":
+Naughty
+increased,Attack
+decreased,Sp. Defense
+}
+{
+"name":
+Bold
+increased,Defense
+decreased,Attack
+}
+{
+"name":
+Docile
+increased,null
+decreased,null
+}
+{
+"name":
+Relaxed
+increased,Defense
+decreased,Speed
+}
+{
+"name":
+Impish
+increased,Defense
+decreased,Sp. Attack
+}
+{
+"name":
+Lax
+increased,Defense
+decreased,Sp. Defense
+}
+{
+"name":
+Timid
+increased,Speed
+decreased,Attack
+}
+{
+"name":
+Hasty
+increased,Speed
+decreased,Defense
+}
+{
+"name":
+Serious
+increased,null
+decreased,null
+}
+{
+"name":
+Jolly
+increased,Speed
+decreased,Sp. Attack
+}
+{
+"name":
+Naive
+increased,Speed
+decreased,Sp. Defense
+}
+{
+"name":
+Modest
+increased,Sp. Attack
+decreased,Attack
+}
+{
+"name":
+Mild
+increased,Sp. Attack
+decreased,Defense
+}
+{
+"name":
+Quiet
+increased,Sp. Attack
+decreased,Speed
+}
+{
+"name":
+Bashfull
+increased,null
+decreased,null
+}
+{
+"name":
+Rash
+increased,Sp. Attack
+decreased,Sp. Defense
+}
+{
+"name":
+Calm
+increased,Sp. Defense
+decreased,Attack
+}
+{
+"name":
+Gentle
+increased,Sp. Defense
+decreased,Defense
+}
+{
+"name":
+Sassy
+increased,Sp. Defense
+decreased,Speed
+}
+{
+"name":
+Careful
+increased,Sp. Defense
+decreased,Sp. Attack
+}
+{
+"name":
+Quirky
+increased,null
+decreased,null
+}
