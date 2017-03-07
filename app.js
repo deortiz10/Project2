@@ -9,7 +9,8 @@ var hbs = require('express-handlebars');
 var routes = require('./routes/index');
 
 var app = express();
-
+// No veo donde utiliza react
+// borrar lineas de codigo comentadas
 // view engine setup
 app.engine('hbs', hbs({extname: 'hbs', defaultLayout: 'layout', layoutsDir: __dirname + '/views/layouts/'}));
 app.set('views', path.join(__dirname, 'views'));
