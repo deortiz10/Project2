@@ -26,6 +26,7 @@ router.get('/get-data', function(req, res, next) {
     });
 });
 
+
 router.get('/get-teams', function(req, res, next) {
     var resultArray = [];
     mongo.connect(url, function(err, db) {
@@ -40,6 +41,7 @@ router.get('/get-teams', function(req, res, next) {
         });
     });
 });
+// se recomienda documentar mejor y borrar el codigo que no se este utilizando
 
 router.post('/insert', function(req, res, next) {
     var item = {
